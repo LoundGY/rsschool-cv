@@ -19,3 +19,6 @@ Ready for the hard work to eventually become a good programmer.
 #### Education
 * Study at Polotsk State University(2018-2022)
 * Attended Andersen front-end development courses
+
+#### English language
+* Pre-Intermediate
