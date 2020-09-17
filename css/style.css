@@ -46,7 +46,6 @@ body {
     border-top:#000 5px solid;
     margin: 0 25px 15px 25px;
     display: flex;
-    width: 93%;
     flex-wrap: wrap;
 }
 .text-name{
