@@ -3,16 +3,16 @@
 ### About me
 As a child, I dreamed of creating online game. So I decided to become a programmer. Hope I can fulfill my childhood dream. Ready for the hard work to eventually become a good programmer.
 #### Skills
-C/C++, C#, JavaScript, PHP, HTML, CSS
+C/C++, C#, JavaScript(~React), PHP(Laravel), HTML, CSS, GIT, SQL
 #### Experience
-Since childhood, he dreamed of creating his own game. Because of this, I started learning programming. I would like to learn how to work in a team and fulfill my childhood dream. 
-Ready for the hard work to eventually become a good programmer.
+I'm more interested in php, but I'm very flexible.
 **My projects**
 <small>August 2019 – Present</small>
   * Development of an online MMORPG browser game<small>(Still in development)</small>
+  * Freelance (wordpress)
 #### Education
 * Study at Polotsk State University(2018-2022)
-* Attended Andersen front-end development courses
+* Attended Andersen/RSS front-end development courses(not finished)
 
 #### English language
-* Pre-Intermediate
+* Pre-Intermediate+
